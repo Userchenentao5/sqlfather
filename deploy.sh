@@ -2,7 +2,7 @@
 export JAVA_HOME=/usr/lib/jvm/java-1.8.0-openjdk-1.8.0.292.b10-1.el7_9.x86_64
 export JRE_HOME=$JAVA_HOME/jre
 
-API_NAME=publicize-manage
+API_NAME=sql-father-backend
 JAR_NAME=/home/admin/application/target/$API_NAME\.jar
 LOG=/home/admin/application/$API_NAME\.out
 #PID  代表是PID文件
