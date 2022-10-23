@@ -1,1 +1,1 @@
-nohup java -jar sql-father-backend.jar &
+nohup java -jar target/sql-father-backend.jar &
